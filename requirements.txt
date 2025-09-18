@@ -1,0 +1,19 @@
+# Machine Learning & Computer Vision
+tensorflow
+Pillow
+pandas
+
+# AI & LLM Core
+langchain
+langchain-community
+google-generativeai  # <-- Added for Gemini
+
+# Backend API
+fastapi
+uvicorn[standard]
+
+# Frontend Interface
+streamlit
+
+# Database
+sqlalchemy
